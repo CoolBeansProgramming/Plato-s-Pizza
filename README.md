@@ -23,7 +23,7 @@ Mario Maven (Manager, Plato's Pizza)
 
 
 ## Business Task 
-Build a single-page dashboard based on Mario's email to help him improve the restaurant's operations
+Build a single-page dashboard based on Mario's email to help him improve the restaurant's operations.
 
 ## My role 
 A BI Consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. You've been hired to help the restaurant use data to improve operations.
