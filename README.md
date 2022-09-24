@@ -1,5 +1,5 @@
 # Plato's-Pizza
-Maven Analytics Pizza Challenge
+## Maven Analytics Pizza Challenge
 
 
 Welcome aboard, we're glad you're here to help!
@@ -8,14 +8,32 @@ Things are going OK here at Plato's, but there's room for improvement. We've bee
 
 Here are some questions that we'd like to be able to answer:
 
-    What days and times do we tend to be busiest?
-    How many pizzas are we making during peak periods?
-    What are our best and worst selling pizzas?
-    What's our average order value?
-    How well are we utilizing our seating capacity? (we have 15 tables and 60 seats)
+* What days and times do we tend to be busiest?
+* How many pizzas are we making during peak periods? 
+* What are our best and worst selling pizzas?
+* What's our average order value?
+* How well are we utilizing our seating capacity? (we have 15 tables and 60 seats)
 
 That's all I can think of for now, but if you have any other ideas I'd love to hear them – you're the expert!
 
 Thanks in advance,
 
 Mario Maven (Manager, Plato's Pizza)
+
+
+
+## Business Task 
+Build a single-page dashboard based on Mario's email to help him improve the restaurant's operations
+
+## My role 
+A BI Consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. You've been hired to help the restaurant use data to improve operations.
+
+## About the dataset
+
+* This dataset contains 4 tables in CSV format
+* The Orders table contains the date & time that all 5,238 table orders were placed
+* The Order Details table contains the different pizzas served with each order in the Orders table, and their quantities
+* The Pizzas table contains the size and price for each distinct pizza in the Order Details table, as well as its broader pizza type
+* The Pizza Types table contains details on the pizza types in the Pizzas table, including their name as it appears on the menu, the category it falls under, and its list of ingredients
+
+See Maven Analytics full challenge [description](https://www.mavenanalytics.io/blog/maven-pizza-challenge?utm_source=linkedin&utm_campaign=pizzachallengelaunch_li_maven).
