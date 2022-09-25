@@ -28,6 +28,9 @@ Build a single-page dashboard based on Mario's email to help him improve the res
 ## My role 
 A BI Consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. You've been hired to help the restaurant use data to improve operations.
 
+## KPIs 
+Spend per head describes on average how much money customers spend on meals. It is calculated by taking total revenue divided by the number of customers.
+
 ## About the dataset
 
 * This dataset contains 4 tables in CSV format
