@@ -40,6 +40,9 @@ Spend per head describes on average how much money customers spend on meals. It 
 * The Pizzas table contains the size and price for each distinct pizza in the Order Details table, as well as its broader pizza type
 * The Pizza Types table contains details on the pizza types in the Pizzas table, including their name as it appears on the menu, the category it falls under, and its list of ingredients
 
+
+![Plato Dashboard](https://github.com/CoolBeansProgramming/Platos-Pizza/blob/main/dashboard.png?raw=true "Plato Dashboard")
+
 ## Insights
 
 * Plato’s sells the most pizza on Fridays with Saturdays and Thursdays not far behind. 
