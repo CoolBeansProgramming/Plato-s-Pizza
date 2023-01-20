@@ -1,6 +1,7 @@
 # Plato's Pizza
 ## Maven Analytics Pizza Challenge
 
+## <img align="right" width="500" height="350" src="https://repository-images.githubusercontent.com/540655465/3d6d9496-b20e-4465-9362-d0270a97f4e5">
 
 Welcome aboard, we're glad you're here to help!
 
