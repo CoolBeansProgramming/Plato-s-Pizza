@@ -40,4 +40,14 @@ Spend per head describes on average how much money customers spend on meals. It 
 * The Pizzas table contains the size and price for each distinct pizza in the Order Details table, as well as its broader pizza type
 * The Pizza Types table contains details on the pizza types in the Pizzas table, including their name as it appears on the menu, the category it falls under, and its list of ingredients
 
+## Insights
+
+* Plato’s sells the most pizza on Fridays with Saturdays and Thursdays not far behind. 
+* They sell the least number of pies on Sundays and Mondays. 
+* Peak order hours during the day are between 12pm and 1pm and are slowest around 11pm. 
+* Their busiest month of the year is July, and the slowest time is in December. 
+* So far, they have made 50,000 pizzas and taken over 48,600 orders with an average order price of $16.44. 
+* The top selling pizzas include the Classic Deluxe, Barbecue Chicken, Hawaiian, and Pepperoni.
+
+
 See Maven Analytics full challenge [description](https://www.mavenanalytics.io/blog/maven-pizza-challenge?utm_source=linkedin&utm_campaign=pizzachallengelaunch_li_maven).
