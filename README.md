@@ -1,4 +1,4 @@
-# Plato's-Pizza
+# Plato's Pizza
 ## Maven Analytics Pizza Challenge
 
 
