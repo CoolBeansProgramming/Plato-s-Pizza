@@ -24,10 +24,10 @@ Mario Maven (Manager, Plato's Pizza)
 
 
 ## Business Task 
-Build a single-page dashboard based on Mario's email to help him improve the restaurant's operations.
+Using Power BI, build a single-page dashboard based on Mario's email to help him improve the restaurant's operations.
 
 ## My role 
-A BI Consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. You've been hired to help the restaurant use data to improve operations.
+A BI Consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. You've been hired to help the restaurant use data to improve operations. 
 
 ## KPIs 
 Spend per head describes on average how much money customers spend on meals. It is calculated by taking total revenue divided by the number of customers.
@@ -40,7 +40,7 @@ Spend per head describes on average how much money customers spend on meals. It 
 * The Pizzas table contains the size and price for each distinct pizza in the Order Details table, as well as its broader pizza type
 * The Pizza Types table contains details on the pizza types in the Pizzas table, including their name as it appears on the menu, the category it falls under, and its list of ingredients
 
-
+## Dashboard 
 ![Plato Dashboard](https://github.com/CoolBeansProgramming/Platos-Pizza/blob/main/dashboard.png?raw=true "Plato Dashboard")
 
 ## Insights
